@@ -5,6 +5,7 @@ public class Test1 {
         System.out.println("welcome to the first lesson!!!");
         System.out.println("welcome to the first lesson!!!");
         System.out.println("boroda");
+        System.out.println("dsfg");
     }
 
 }
