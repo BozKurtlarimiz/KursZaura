@@ -8,6 +8,8 @@ public class BankAccount {
     String name;
     double balance;
 
+
+
     void popolnenieScheta(double summaPopolneniya) {
         System.out.println("balans do popolneniya: " + balance);
         System.out.println("Balans popolneyetsa na" + summaPopolneniya);
@@ -26,6 +28,7 @@ public class BankAccount {
         System.out.println();
 
     }
+
 }
 
 

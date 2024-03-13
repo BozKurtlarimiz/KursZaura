@@ -7,12 +7,15 @@ public class Employee {
     double salary;
     String department;
 
-    public Employee(int id, String surname, int age, double salary, String department) {
-        this.id = id;
+    public Employee(int aidi, String surname, int age, double salary, String department) {
+        id = aidi;
         this.surname = surname;
         this.age = age;
         this.salary = salary;
         this.department = department;
+    }
+
+    public Employee() {
     }
 
     void UvelichenieZP(){

@@ -4,6 +4,7 @@ public class EmployeeTest {
     public static void main(String[] args) {
         Employee vovik= new Employee(1,"Pukin",57,999,"Kreml");
         Employee jenek= new Employee(2,"Perdejin",55,1,"CVK");
+        Employee kojeed=new Employee();
         vovik.UvelichenieZP();
         jenek.UvelichenieZP();
 
