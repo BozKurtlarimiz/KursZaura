@@ -12,10 +12,10 @@ public class BankAccount {
 
     void popolnenieScheta(double summaPopolneniya) {
         System.out.println("balans do popolneniya: " + balance);
-        System.out.println("Balans popolneyetsa na" + summaPopolneniya);
+        System.out.println("Balans popolneyetsa na: " + summaPopolneniya);
 //        balance += summaPopolneniya;
       balance = balance+ summaPopolneniya;
-        System.out.println("Balans posle popolneniya" + balance);
+        System.out.println("Balans posle popolneniya: " + balance);
         System.out.println();
 
     }

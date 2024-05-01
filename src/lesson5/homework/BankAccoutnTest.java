@@ -12,7 +12,7 @@ public class BankAccoutnTest {
         ba2.id = 2;
         ba2.name = "Chumo";
 
-        ba1.popolnenieScheta(2);
+        ba1.popolnenieScheta(5);
         ba2.snyatieSoScheta(100);
     }
 
